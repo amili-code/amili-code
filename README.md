@@ -1,16 +1,24 @@
-## Hi there 👋
+My name is Amirali Ghorbani
 
-<!--
-**amili-code/amili-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web programmer | Full-Stack
 
-Here are some ideas to get you started:
+🖥️ See my portfolio at github.com/amili-code/cv
+🚀 I'm currently working on Mrk(مبنا رایانه کیان)
+🤝 I'm open to collaborating on interesting projects as a web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  NodeJs
+
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ReactJs 
+
+Socials
+    
+
+Badges
+My GitHub Stats
+
+Top Languages
+
+Support Me
