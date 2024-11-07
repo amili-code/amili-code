@@ -18,8 +18,8 @@ I'm Amirali Ghorbani, a student specializing in Networking and Software at Sampa
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Khodeamili)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=amili-code&theme=dark&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amili-code&theme=dark&hide_border=false)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amili-code&show_icons=true&hide_title=true&theme=dark)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amili-code&theme=dark)
-
-
+![](https://github-contributor-stats.vercel.app/api?username=amili-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=amili-code&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
