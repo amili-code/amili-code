@@ -13,12 +13,6 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## Backend Libraries
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  
-![Bcrypt](https://img.shields.io/badge/Bcrypt-E3E3E3?style=for-the-badge&logo=bcrypt&logoColor=black)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-FF6411?style=for-the-badge&logo=ffmpeg&logoColor=white)  
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010002?style=for-the-badge&logo=socket-dot-io&logoColor=white)
 
 ## Socials
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amili-code/cv)
