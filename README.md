@@ -7,7 +7,7 @@ I'm Amirali Ghorbani, a student specializing in Networking and Software at Sampa
 <br>
 🚀 I'm currently working on Mrk(مبنا رایانه کیان)<br>
 🤝 I'm open to collaborating on interesting projects as a web developer<br>
-<h2 align="center">💫 About Me:</h2>
+<h2 align="center">DATA:</h2>
 
 ###
 
@@ -57,7 +57,6 @@ I'm Amirali Ghorbani, a student specializing in Networking and Software at Sampa
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amili-code/amili-code/output/snake.svg" alt="Snake animation" />
 
 ###
 
