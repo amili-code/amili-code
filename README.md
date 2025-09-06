@@ -5,7 +5,6 @@ I'm Amirali Ghorbani, a student specializing in Networking and Software at Sampa
 <br>
 🔭 I study in AmirKabir Sampad [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/amirkabir-sampad/posts/?feedView=all)
 <br>
-🚀 I'm currently working on Mrk(مبنا رایانه کیان)<br>
 🤝 I'm open to collaborating on interesting projects as a web developer<br>
 <h2 align="center">DATA:</h2>
 
